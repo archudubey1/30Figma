@@ -1,0 +1,17 @@
+@media only screen and (max-width:1800px){
+    main{
+        position: relative;
+    }
+    .burger{
+        display: block;
+    }
+    .v-class-resp{
+        opacity: 0;
+
+    }
+    .h-nav-resp{
+
+        height: 372px;
+    }
+
+} 
